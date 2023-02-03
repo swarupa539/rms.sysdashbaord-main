@@ -1,0 +1,18 @@
+.account-menu{
+    display: flex;
+    justify-content: space-evenly;
+}
+
+.menu-icon-open{
+    margin-right: 10px;
+     display: none;
+}
+.menu-icon-close{
+    margin-right: 10px;
+}
+
+.tool-bar{
+    display: flex;
+    justify-content:space-between;
+    /* background-color: #000000; */
+}
